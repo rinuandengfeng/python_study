@@ -1,0 +1,1 @@
+print("The quick brown fox","jumps over","the lazy dog")   #","被解释为空格

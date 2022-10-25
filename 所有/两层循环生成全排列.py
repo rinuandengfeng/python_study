@@ -1,0 +1,1 @@
+print([m+n for m in 'abc ' for n in 'xyz'])
